@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/minter/static/css/main.4af018f7.chunk.css",
-    "main.js": "/minter/static/js/main.03a7b86c.chunk.js",
-    "main.js.map": "/minter/static/js/main.03a7b86c.chunk.js.map",
+    "main.js": "/minter/static/js/main.5156ff5e.chunk.js",
+    "main.js.map": "/minter/static/js/main.5156ff5e.chunk.js.map",
     "runtime-main.js": "/minter/static/js/runtime-main.b61e28f6.js",
     "runtime-main.js.map": "/minter/static/js/runtime-main.b61e28f6.js.map",
     "static/js/2.aabe2725.chunk.js": "/minter/static/js/2.aabe2725.chunk.js",
     "static/js/2.aabe2725.chunk.js.map": "/minter/static/js/2.aabe2725.chunk.js.map",
     "index.html": "/minter/index.html",
-    "precache-manifest.adafd4f601f72dcfaf591ee3e02001bb.js": "/minter/precache-manifest.adafd4f601f72dcfaf591ee3e02001bb.js",
+    "precache-manifest.61dcffcea0023b1e8864f7206e34dd9f.js": "/minter/precache-manifest.61dcffcea0023b1e8864f7206e34dd9f.js",
     "service-worker.js": "/minter/service-worker.js",
     "static/css/main.4af018f7.chunk.css.map": "/minter/static/css/main.4af018f7.chunk.css.map",
     "static/js/2.aabe2725.chunk.js.LICENSE.txt": "/minter/static/js/2.aabe2725.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.b61e28f6.js",
     "static/js/2.aabe2725.chunk.js",
     "static/css/main.4af018f7.chunk.css",
-    "static/js/main.03a7b86c.chunk.js"
+    "static/js/main.5156ff5e.chunk.js"
   ]
 }
