@@ -1,0 +1,33 @@
+{
+	"network": "florencenet",
+	"rpc": "https://rpctest.tzbeta.net",
+	"bcd": {
+		"api": "https://api.better-call.dev",
+		"gui": "https://better-call.dev"
+	},
+	"tzkt": {
+		"api": "https://api.florencenet.tzkt.io"
+	},
+	"admin": {
+		"address": "tz1MN9FthTuQyMSGSXHyiXvAkzHf4yUE2F5u"
+	},
+	"ipfsApi": "https://minter-api.tqhosted.com",
+	"ipfsGateway": "https://tqtezos.mypinata.cloud",
+	"contractOpts": {
+		"marketplace": {
+			"adminOnly": true,
+			"fee": {
+				"percent": 2,
+				"address": "tz1MN9FthTuQyMSGSXHyiXvAkzHf4yUE2F5u"
+			}
+		}
+	},
+	"contracts": {
+		"nftFaucet": "KT1BhKAbUdMBcGt6aowoh2EeNLrRoBS2dxar",
+		"marketplace": {
+			"fixedPrice": {
+				"tez": "KT1Ns5T7rZrLZfxrgy5cNF6MUM1nETq4QzAt"
+			}
+		}
+	}
+}
