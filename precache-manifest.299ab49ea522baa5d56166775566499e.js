@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce7b81ec16230972e4e1b64e184ee785",
+    "revision": "7de652773eab712a4acd13e363768337",
     "url": "/minter/index.html"
   },
   {
-    "revision": "d478da8bf077d4b7ae8f",
+    "revision": "89fc156ddf26e3bc5813",
     "url": "/minter/static/css/main.4af018f7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minter/static/js/2.aabe2725.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d478da8bf077d4b7ae8f",
-    "url": "/minter/static/js/main.5156ff5e.chunk.js"
+    "revision": "89fc156ddf26e3bc5813",
+    "url": "/minter/static/js/main.e1482ad1.chunk.js"
   },
   {
     "revision": "b3b116c7ff6d8aa2a4bf",
